@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MAD-FINAL</string>
+    <string name="login">Login</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="register">don\'t have an account? register</string>
+    <string name="register_btn">REGISTER</string>
+    <string name="username_hint">Enter username</string>
+    <string name="password_hint">Enter password</string>
+    <string name="view_all">View All</string>
+    <string name="view_one">View One</string>
+    <string name="delete">Delete</string>
+    <string-array name="numbers">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+    </string-array>
+    <string-array name="types">
+        <item>user</item>
+        <item>admin</item>
+        <item>staff</item>
+    </string-array>
+</resources>
